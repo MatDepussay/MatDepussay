@@ -1,11 +1,11 @@
   <h1 align="left">Hey, I'm Mathias 👋</h1>
 
   <p align="left">
-  Data Engineering Associate @ <b>ONEPOINT</b> — building medallion-architecture pipelines and workspace automation on <b>Microsoft
+  Intern at @<b>ONEPOINT</b> — building medallion-architecture pipelines and workspace automation on <b>Microsoft
   Fabric</b>, and exploring applied AI (agents, MCP servers, custom Claude skills).
   <br/><br/>
-  Off the clock: game programming, machine learning side projects, and building custom AI tools just for myself. I like taking a
-  system apart until I understand it well enough to rebuild it.
+  Off the clock: game programming, machine learning side projects, building custom AI tools just for myself, and currently leveling
+  up on React through small MCP server experiments. I like taking a system apart until I understand it well enough to rebuild it.
   </p>
 
   ---
@@ -18,9 +18,10 @@
   ![Fabric Apps](https://img.shields.io/badge/Fabric%20Apps-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Fabric Data
   Agents](https://img.shields.io/badge/Fabric%20Data%20Agents-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![Fabric RTI](https://img.shields.io/badge/Fabric%20RTI-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![Azure Event Hubs](https://img.shields.io/badge/Event%20Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-  
 
   **AI & Agentic Tooling**
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -32,22 +33,38 @@
   **Languages & Tools**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&label=learning)
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+  ![Bruno](https://img.shields.io/badge/Bruno-14181D?style=flat-square&logo=bruno&logoColor=orange)
   ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
   ![VBA](https://img.shields.io/badge/VBA-0F4A8A?style=flat-square)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
   ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=white)
   ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+  ![KQL](https://img.shields.io/badge/KQL-2b579a?style=flat-square)
 
   **Python Libraries**
+  ![fabric-data-agent-sdk](https://img.shields.io/badge/fabric--data--agent--sdk-2b579a?style=flat-square&logo=python&logoColor=white
+  )
   ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat-square)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+  ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-1560BD?style=flat-square)
+  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
   **APIs**
   ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+  ![Fabric REST API](https://img.shields.io/badge/Fabric%20REST%20API-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
   ---
 
@@ -58,7 +75,7 @@
   - **Data Engineer Associate** — DataCamp
   - **SQL Associate** — DataCamp
   - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — Microsoft
-
+  - **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — Microsof
   ---
 
   ### 🛠️ Tools & projects I've built
