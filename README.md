@@ -14,14 +14,13 @@
 
   **Data Engineering & Fabric**
   ![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
-  ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
   ![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-2b579a?style=flat-square)
   ![Fabric Apps](https://img.shields.io/badge/Fabric%20Apps-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Fabric Data
   Agents](https://img.shields.io/badge/Fabric%20Data%20Agents-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-  ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+  
 
   **AI & Agentic Tooling**
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -37,6 +36,8 @@
   ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
   ![VBA](https://img.shields.io/badge/VBA-0F4A8A?style=flat-square)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+  ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+  ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
   **Python Libraries**
   ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
