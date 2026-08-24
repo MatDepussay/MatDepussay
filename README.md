@@ -1,4 +1,4 @@
-  <h1 align="left">Hey, I'm Mathias 👋</h1>
+<h1 align="left">Hey, I'm Mathias 👋</h1>
 
   <p align="left">
   Data Engineering Associate @ <b>ONEPOINT</b> — building medallion-architecture pipelines and workspace automation on <b>Microsoft
@@ -18,9 +18,12 @@
   ![Fabric Apps](https://img.shields.io/badge/Fabric%20Apps-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Fabric Data
   Agents](https://img.shields.io/badge/Fabric%20Data%20Agents-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![Fabric RTI](https://img.shields.io/badge/Fabric%20RTI-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![Eventhouse](https://img.shields.io/badge/Eventhouse-2b579a?style=flat-square)
+  ![Eventstream](https://img.shields.io/badge/Eventstream-2b579a?style=flat-square)
+  ![Azure Event Hubs](https://img.shields.io/badge/Event%20Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-  
 
   **AI & Agentic Tooling**
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -38,9 +41,12 @@
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
   ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=white)
   ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+  ![KQL](https://img.shields.io/badge/KQL-2b579a?style=flat-square)
 
   **Python Libraries**
   ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat-square)
@@ -48,6 +54,7 @@
   **APIs**
   ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
   ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
   ---
 
@@ -60,6 +67,7 @@
   - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — Microsoft
   - **Microsoft Certified: Microsoft Fabric Analytics (DP-600)** — Microsoft
   - **Microsoft Certified: Developing AI Apps and Agents on Azure (AI-103)** — Microsoft
+
   ---
 
   ### 🛠️ Tools & projects I've built
