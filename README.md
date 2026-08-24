@@ -19,8 +19,6 @@
   ![Fabric Data
   Agents](https://img.shields.io/badge/Fabric%20Data%20Agents-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Fabric RTI](https://img.shields.io/badge/Fabric%20RTI-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
-  ![Eventhouse](https://img.shields.io/badge/Eventhouse-2b579a?style=flat-square)
-  ![Eventstream](https://img.shields.io/badge/Eventstream-2b579a?style=flat-square)
   ![Azure Event Hubs](https://img.shields.io/badge/Event%20Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
@@ -44,6 +42,8 @@
   ![KQL](https://img.shields.io/badge/KQL-2b579a?style=flat-square)
 
   **Python Libraries**
+  ![fabric-data-agent-sdk](https://img.shields.io/badge/fabric--data--agent--sdk-2b579a?style=flat-square&logo=python&logoColor=white
+  )
   ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
@@ -53,6 +53,7 @@
 
   **APIs**
   ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+  ![Fabric REST API](https://img.shields.io/badge/Fabric%20REST%20API-2b579a?style=flat-square&logo=microsoftazure&logoColor=white)
   ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
