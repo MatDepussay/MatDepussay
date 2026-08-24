@@ -1,11 +1,11 @@
-<h1 align="left">Hey, I'm Mathias 👋</h1>
+  <h1 align="left">Hey, I'm Mathias 👋</h1>
 
   <p align="left">
   Data Engineering Associate @ <b>ONEPOINT</b> — building medallion-architecture pipelines and workspace automation on <b>Microsoft
   Fabric</b>, and exploring applied AI (agents, MCP servers, custom Claude skills).
   <br/><br/>
-  Off the clock: game programming, machine learning side projects, and building custom AI tools just for myself. I like taking a
-  system apart until I understand it well enough to rebuild it.
+  Off the clock: game programming, machine learning side projects, building custom AI tools just for myself, and currently leveling
+  up on React through small MCP server experiments. I like taking a system apart until I understand it well enough to rebuild it.
   </p>
 
   ---
@@ -33,6 +33,8 @@
   **Languages & Tools**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![MCP TypeScript SDK](https://img.shields.io/badge/MCP%20TypeScript%20SDK-6E56CF?style=flat-square)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&label=learning)
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
   ![Bruno](https://img.shields.io/badge/Bruno-14181D?style=flat-square&logo=bruno&logoColor=orange)
   ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -51,6 +53,13 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat-square)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+  ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-1560BD?style=flat-square)
+  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
   **APIs**
   ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
