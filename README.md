@@ -76,7 +76,8 @@
   - **Data Engineer Associate** — DataCamp
   - **SQL Associate** — DataCamp
   - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — Microsoft
-  - **Microsoft Certified: Microsoft Fabric Analytics (DP-600)** — Microsoft
+  - **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — Microsoft
+  - **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** — Microsoft
   - **Microsoft Certified: Developing AI Apps and Agents on Azure (AI-103)** — Microsoft
 
   ---
